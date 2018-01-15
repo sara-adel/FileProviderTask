@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+         <!--main activity-->
+    <dimen name="layout">150dp</dimen>
+    <dimen name="margin_top">100dp</dimen>
+
+        <!--custom dialog-->
+    <dimen name="padding">16dp</dimen>
+    <dimen name="margintop_items">10dp</dimen>
+</resources>

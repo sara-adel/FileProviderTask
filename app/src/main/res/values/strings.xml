@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileProviderTask</string>
+
+        <!--custom dialog-->
+    <string name="camera_text">Take Photo</string>
+    <string name="gallery_text">Choose from Gallery</string>
+    <string name="remove_text">Remove Picture</string>
+</resources>
